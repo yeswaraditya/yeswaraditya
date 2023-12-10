@@ -8,7 +8,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UI/UX Designer, Full Stack Developer
 ------------------------------------
 
-► Student at PVP SIT pursuing Computer Science and Engineering. ►A fashion enthusiast with a keen eye for trends and styles. ►Experienced in prompt engineering, delivering efficient and effective solutions. ►Committed to personal and professional growth, always seeking new opportunities. ►Excited to collaborate with brands and individuals to create impactful content and campaigns. ►Open to networking and connecting with like-minded professionals in the fashion and IT industries. ►Looking forward to exploring opportunities to leverage my diverse skill set and expand my horizons. ►Continuous Learning,stay updated with the latest developments in AI and language models, incorporating new knowledge and techniques to enhance prompt generation.
+► Student at PVP SIT pursuing Computer Science and Engineering.
+►A fashion enthusiast with a keen eye for trends and styles. 
+►Experienced in prompt engineering, delivering efficient and effective solutions.
+►Committed to personal and professional growth, always seeking new opportunities.
+►Excited to collaborate with brands and individuals to create impactful content and campaigns.
+►Open to networking and connecting with like-minded professionals in the fashion and IT industries. 
+►Looking forward to exploring opportunities to leverage my diverse skill set and expand my horizons. 
+►Continuous Learning,stay updated with the latest developments in AI and language models, incorporating new knowledge and techniques to enhance prompt generation.
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [yeswaraditya3006@gmail..com](mailto:yeswaraditya3006@gmail..com)
