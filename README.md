@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Y .Eswar Aditya
 =======================================================================================================================================
 
-UI/UX Designer, Full Stack Developer
+UI/UX Designer | Full Stack Developer
 ------------------------------------
 
 ► Student at PVP SIT pursuing Computer Science and Engineering.
